@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Muito prazer, meu nome é Fabiano Gehrke!!!
+Com 15 anos de expeirência em hardware e suporte  a computadores, hoje estou cursando  o curso AWS Pratitioner na Escola da Nuvem.
+
+Com conhecimentos em S3, EC2, Autoscaling, sistemas de armazenamento estou me desenvolvendo e aprendendo novas ferramentas todos os dias.
+
+Estou a procura de novas oportunidades de trabalho na área de *Cloud Computing* para poder me desenvolver e obter mais conhecimento e continuar
+o meru desenvolvimento.
+
+
 <!--
 **FabianoGehrke/FabianoGehrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
